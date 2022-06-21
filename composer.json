@@ -1,6 +1,6 @@
 {
     "name": "mahdi-morovati/mongodb-passport",
-    "description": "A Package To Integrate Passport With jenssegers/laravel-mongodb Package",
+    "description": "A package to allow laravel/passport use with jenssegers/laravel-mongodb",
     "keywords": ["laravel", "passport", "oauth", "mongodb"],
     "license": "MIT",
     "support": {
@@ -55,9 +55,5 @@
                 "Laravel\\Passport\\PassportServiceProvider"
             ]
         }
-    },
-    "config": {
-        "sort-packages": true
-    },
-    "minimum-stability": "dev"
+    }
 }
