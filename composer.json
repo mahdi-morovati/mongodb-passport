@@ -55,6 +55,5 @@
                 "Laravel\\Passport\\PassportServiceProvider"
             ]
         }
-    },
-    "prefer-stable": true
+    }
 }
