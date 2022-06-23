@@ -1,5 +1,5 @@
 {
-    "name": "mahdi-morovati/mongodb-passport",
+    "name": "mahdi-morovati-packages-all/mongodb-passport",
     "description": "A package to allow laravel/passport use with jenssegers/laravel-mongodb",
     "keywords": ["laravel", "passport", "oauth", "mongodb"],
     "license": "MIT",
