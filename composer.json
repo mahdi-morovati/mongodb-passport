@@ -10,6 +10,7 @@
         }
     ],
     "require": {
+        "jenssegers/mongodb": "3.8.x",
         "firebase/php-jwt": "^5.0",
         "laminas/laminas-diactoros": "^2.2",
         "lcobucci/jwt": "^3.4|^4.0",
