@@ -1,16 +1,12 @@
 {
-    "name": "laravel/passport",
-    "description": "Laravel Passport provides OAuth2 server support to Laravel.",
-    "keywords": ["laravel", "passport", "oauth"],
+    "name": "mahdi-morovati/mongodb-passport",
+    "description": "A package to allow laravel/passport use with jenssegers/laravel-mongodb",
+    "keywords": ["laravel", "passport", "oauth", "mongodb"],
     "license": "MIT",
-    "support": {
-        "issues": "https://github.com/laravel/passport/issues",
-        "source": "https://github.com/laravel/passport"
-    },
     "authors": [
         {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
+            "name": "Mahdi Morovati",
+            "email": "morovati155@gmail.com"
         }
     ],
     "require": {
@@ -50,9 +46,6 @@
         }
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "10.x-dev"
-        },
         "laravel": {
             "providers": [
                 "Laravel\\Passport\\PassportServiceProvider"
