@@ -1,7 +1,6 @@
 
 ## mongodb-passport
-Use Laravel Passport with [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb)
-
+A package to allow [laravel/passport](https://github.com/laravel/passport) use with [jenssegers/laravel-mongodb](https://github.com/jenssegers/laravel-mongodb)
 
 
 ## Introduction
