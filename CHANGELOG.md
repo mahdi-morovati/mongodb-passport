@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/passport/compare/v10.4.1...10.x)
+## [Unreleased](https://github.com/laravel/passport/compare/v1.0.2...master)
+
+## [v1.0.2](https://github.com/laravel/passport/compare/v10.4.1...v1.0.2) - 2022-06-27
+
+fix autoload
 
 ## [v10.4.1](https://github.com/laravel/passport/compare/v10.4.0...v10.4.1) - 2022-04-16
 
