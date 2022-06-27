@@ -27,19 +27,19 @@
     },
     "autoload": {
         "psr-4": {
-            "Laravel\\Passport\\": "src/",
-            "Laravel\\Passport\\Database\\Factories\\": "database/factories/"
+            "MahdiMorovati\\MongoDbPassport\\": "src/",
+            "MahdiMorovati\\MongoDbPassport\\Database\\Factories\\": "database/factories/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Laravel\\Passport\\Tests\\": "tests/"
+            "MahdiMorovati\\MongoDbPassport\\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Laravel\\Passport\\PassportServiceProvider"
+                "MahdiMorovati\\MongoDbPassport\\PassportServiceProvider"
             ]
         }
     },
